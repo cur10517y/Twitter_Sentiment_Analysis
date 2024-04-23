@@ -15,4 +15,4 @@ The dataset includes the following columns:
 
 Task
 
-The main task of this project is to build a model that can accurately classify each tweet into one of several sentiment categories, including positive, negative, neutral, extremely positive, and extremely negative.
+1. The main task of this project is to build a model that can accurately classify each tweet into one of several sentiment categories, including positive, negative, neutral, extremely positive, and extremely negative.
